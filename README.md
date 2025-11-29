@@ -13,7 +13,8 @@ Para realizar este trabajo se siguieron los siguientes pasos:
 ## 3. Evidencias de Funcionamiento
 A continuación se muestra la ejecución exitosa del programa:
 
-*(Aquí deberías pegar tu captura de pantalla de la terminal funcionando)*
+*![Imagen de WhatsApp 2025-11-28 a las 20 35 46_7273cb5e](https://github.com/user-attachments/assets/d96ba06d-2a67-4c8f-b2b8-de59fda837b5)
+*
 > El sistema carga los datos correctamente, entrena el modelo con una precisión del 100% y predice la categoría "A" para el producto de prueba.
 
 ## 4. Tecnologías Utilizadas
@@ -21,3 +22,4 @@ A continuación se muestra la ejecución exitosa del programa:
 * Visual Studio Code
 
 * GitHub Copilot
+
